@@ -3,7 +3,7 @@
 We're really excited that you're about to contribute to the [open
 curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co).
 If this is your first time contributing, please continue reading to learn how
-to make the most meaningful and useful impact possible.
+to make the most meaningful and usefulcccpact possible.
 
 ## Raising an Issue to Encourage a Contribution
 
