@@ -5,15 +5,15 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2020-07-29T20:49:11.214Z",
-    "end": "2020-07-29T20:49:12.151Z",
-    "duration": 937
+    "start": "2020-07-29T20:52:06.230Z",
+    "end": "2020-07-29T20:52:07.551Z",
+    "duration": 1321
   },
   "tests": [
     {
       "title": "exists",
       "fullTitle": "index.js exists",
-      "duration": 11,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -24,7 +24,7 @@
     {
       "title": "exists",
       "fullTitle": "index.js exists",
-      "duration": 11,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
